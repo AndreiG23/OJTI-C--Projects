@@ -1,0 +1,12 @@
+F:\Projects\OJTI 2015\OJTI 2015\bin\Debug\OJTI 2015.exe.config
+F:\Projects\OJTI 2015\OJTI 2015\bin\Debug\OJTI 2015.exe
+F:\Projects\OJTI 2015\OJTI 2015\bin\Debug\OJTI 2015.pdb
+F:\Projects\OJTI 2015\OJTI 2015\obj\Debug\OJTI 2015.csprojAssemblyReference.cache
+F:\Projects\OJTI 2015\OJTI 2015\obj\Debug\OJTI_2015.Form1.resources
+F:\Projects\OJTI 2015\OJTI 2015\obj\Debug\OJTI_2015.Form2.resources
+F:\Projects\OJTI 2015\OJTI 2015\obj\Debug\OJTI_2015.Properties.Resources.resources
+F:\Projects\OJTI 2015\OJTI 2015\obj\Debug\OJTI 2015.csproj.GenerateResource.cache
+F:\Projects\OJTI 2015\OJTI 2015\obj\Debug\OJTI 2015.csproj.CoreCompileInputs.cache
+F:\Projects\OJTI 2015\OJTI 2015\obj\Debug\OJTI 2015.exe
+F:\Projects\OJTI 2015\OJTI 2015\obj\Debug\OJTI 2015.pdb
+F:\Projects\OJTI 2015\OJTI 2015\obj\Debug\OJTI_2015.Form3.resources
