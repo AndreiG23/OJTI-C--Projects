@@ -1,0 +1,26 @@
+F:\Projects\OJTI 2017\OJTI 2017\obj\Debug\OJTI 2017.csprojAssemblyReference.cache
+F:\Projects\OJTI 2017\OJTI 2017\obj\Debug\OJTI_2017.Form1.resources
+F:\Projects\OJTI 2017\OJTI 2017\obj\Debug\OJTI_2017.Properties.Resources.resources
+F:\Projects\OJTI 2017\OJTI 2017\obj\Debug\OJTI 2017.csproj.GenerateResource.cache
+F:\Projects\OJTI 2017\OJTI 2017\obj\Debug\OJTI 2017.csproj.CoreCompileInputs.cache
+F:\Projects\OJTI 2017\OJTI 2017\bin\Debug\OJTI 2017.exe.config
+F:\Projects\OJTI 2017\OJTI 2017\bin\Debug\OJTI 2017.exe
+F:\Projects\OJTI 2017\OJTI 2017\bin\Debug\OJTI 2017.pdb
+F:\Projects\OJTI 2017\OJTI 2017\obj\Debug\OJTI 2017.exe
+F:\Projects\OJTI 2017\OJTI 2017\obj\Debug\OJTI 2017.pdb
+F:\Projects\OJTI 2017\OJTI 2017\obj\Debug\OJTI_2017.Form2.resources
+F:\Projects\OJTI 2017\OJTI 2017\bin\Debug\Turism.mdf
+F:\Projects\OJTI 2017\OJTI 2017\bin\Debug\Turism_log.ldf
+D:\Projects\OJTI 2017\OJTI 2017\bin\Debug\Turism.mdf
+D:\Projects\OJTI 2017\OJTI 2017\bin\Debug\Turism_log.ldf
+D:\Projects\OJTI 2017\OJTI 2017\bin\Debug\OJTI 2017.exe.config
+D:\Projects\OJTI 2017\OJTI 2017\bin\Debug\OJTI 2017.exe
+D:\Projects\OJTI 2017\OJTI 2017\bin\Debug\OJTI 2017.pdb
+D:\Projects\OJTI 2017\OJTI 2017\obj\Debug\OJTI 2017.csprojAssemblyReference.cache
+D:\Projects\OJTI 2017\OJTI 2017\obj\Debug\OJTI_2017.Form1.resources
+D:\Projects\OJTI 2017\OJTI 2017\obj\Debug\OJTI_2017.Form2.resources
+D:\Projects\OJTI 2017\OJTI 2017\obj\Debug\OJTI_2017.Properties.Resources.resources
+D:\Projects\OJTI 2017\OJTI 2017\obj\Debug\OJTI 2017.csproj.GenerateResource.cache
+D:\Projects\OJTI 2017\OJTI 2017\obj\Debug\OJTI 2017.csproj.CoreCompileInputs.cache
+D:\Projects\OJTI 2017\OJTI 2017\obj\Debug\OJTI 2017.exe
+D:\Projects\OJTI 2017\OJTI 2017\obj\Debug\OJTI 2017.pdb
